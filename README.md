@@ -2,6 +2,6 @@
 
 the list
 
-* pizzza (to do)
-* sauce (to do)
-* sprads (to do)
+* pizza (to do)
+* sauces (to do)
+* spreads (to do)
